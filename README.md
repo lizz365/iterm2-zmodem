@@ -11,4 +11,4 @@ Action: Run Silent Coprocess<br>
 Parameters: /usr/local/bin/iterm2-send-zmodem.sh<br>  
 
 
-安装步骤：https://blog.csdn.net/lizz861109/article/details/104824373
+reference：https://blog.csdn.net/lizz861109/article/details/104824373
